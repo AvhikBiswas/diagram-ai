@@ -85,7 +85,7 @@ This project is currently under development and not licensed for commercial use 
 
 ## 🙌 Contributors
 
-Built with ❤️ by [Your Name], AI enthusiast & full-stack developer.
+Built with ❤️ by Avhik Biswas.
 
 Want to contribute? PRs welcome!
 
